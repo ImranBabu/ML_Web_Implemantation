@@ -1,2 +1,9 @@
-# ML_Web_Implemantation
-In this Respiratory I'm Implementing Machine Learning and Flask Frame work with pickle Implementation
+# Salary-Prediction
+Salary Prediction with Flask Web App
+
+Packages:
+1.sklearn
+2.pandas
+3.numpy
+4.flask
+5.pickle
