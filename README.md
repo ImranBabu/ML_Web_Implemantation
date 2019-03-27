@@ -7,3 +7,5 @@ Packages:
 3.numpy
 4.flask
 5.pickle
+
+Create The folder named templates and move the html files
